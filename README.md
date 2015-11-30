@@ -1,10 +1,10 @@
-# ChatSistemasDistribuidos
+# Chat p2p
 
 Um sistema de chat peer-to-peer desenvolvido em Python para a Disciplina de Sistemas Distribuidos
 
 Necessário ter instalado: TKinter e PyAudio
 
-Tkinter para ubuntu: sudo apt-get install python-tk
+Tkinter: sudo apt-get install python-tk
 
 PyAudio: sudo apt-get install python-pyaudio python3-pyaudio
 
